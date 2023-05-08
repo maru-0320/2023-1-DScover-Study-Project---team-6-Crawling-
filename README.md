@@ -1,4 +1,4 @@
-# Study-Project---team-6 [Crawling]
+# 2023-1 DScover-Study-Project---team-6 [Crawling]
 # 서울 화재 지역 분석 및 주요 화재 요인 탐구 (Project for Prediction of SME Closure Using Non-Financial Data)
 ### 스터디 프로젝트 6조 [크롤링] : 김동민 김민서 문정은 박우혁 정지원
 
